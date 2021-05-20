@@ -13,7 +13,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform)
 
 # AWS_Route53 diagram 
-![alt text]()
+![alt text](ValAug/VPC-Peering/blob/main/vpc_vpc.png)
 
 
 # Purpose
