@@ -12,7 +12,7 @@
 ###### IaaC
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform)
 
-# AWS_Route53 diagram 
+# AWS VPC Peering Diagram
 ![alt text](https://github.com/ValAug/VPC-Peering/blob/main/vpc_vpc.png)
 
 
